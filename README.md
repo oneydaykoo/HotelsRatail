@@ -1,4 +1,5 @@
-# hello-world
-just test
-write some text, tell a bit about yourself.
-hhhhhhhhh
+# HotelsRatail
+
+```
+HotelsRatail is a on-line retail for hotels platform.
+```
